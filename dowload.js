@@ -39,8 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 
   document.getElementById("desktop_github_link").href = "https://github.com/visuolink/DesktopApp";
+  document.getElementById("desktop_window_download_link").href = "https://github.com/visuolink/DesktopApp/releases/download/v1.07/VisuoLinkV1.07_Windows_x64_setup.exe";
+  document.getElementById("android_downlod_link").href = "https://github.com/visuolink/AndroidApp/releases/tag/v1.4.69";
   document.getElementById("android_github_link").href = "https://github.com/visuolink/AndroidApp";
-
 });
-
-
